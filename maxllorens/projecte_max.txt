@@ -1,0 +1,2 @@
+Aquest pojecte tindrà com a objectiu crear una APP que doni suport a l'àrea comercial
+El sistema es desenvoluparà amb Angular
