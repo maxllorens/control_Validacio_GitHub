@@ -2,3 +2,7 @@ Max Llorens
 19
 CFGS DAW
 Àrbitre
+
+PROJECTES TREBALLATS:
+- Creació de la Web per a Stadsstrand Leeuwarden
+- Creació d'un Videojoc
